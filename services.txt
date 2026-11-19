@@ -1,0 +1,21 @@
+1. Barangay Clearance
+Purpose: A document used to certify that a resident is known in the barangay and has no recorded issue that would prevent its issuance.
+- Requirements: Valid ID, proof of residency, and completed application form.
+- Processing: Submit requirements to the barangay office and wait for verification.
+- Fee: Depends on barangay regulations.
+- Where to apply: Barangay Hall.
+
+
+2. Certificate of Residency
+Purpose: A document that confirms a person is currently residing in a particular barangay.
+- Requirements: Valid ID, proof of address, and completed application form.
+- Processing: Submit the requirements for verification of residency.
+- Fee: Depends on barangay regulations.
+- Where to apply: Barangay Hall.
+3. Certificate of Indigency
+
+Purpose: A document certifying that a resident belongs to a low-income or financially disadvantaged household. It may be used when applying for certain assistance programs.
+- Requirements: Valid ID, proof of residency, and other supporting documents if required.
+- Processing: Submit an application for assessment and verification by barangay officials.
+- Fee: Depends on barangay regulations.
+- Where to apply: Barangay Hall.
