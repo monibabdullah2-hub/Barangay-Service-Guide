@@ -1,9 +1,9 @@
 # Barangay-Service-Guide
 
-Project Title
 Barangay Service Guide: A Digital Platform for Accessible Community Services
 Project Purpose
 The purpose of the Barangay Service Guide is to provide residents with an easy and convenient way to access information about barangay services, requirements, announcements, and community programs. It aims to improve communication between residents and barangay officials while making public services more accessible and organized.
+
 Main Features
 
 1. Barangay Services Information
